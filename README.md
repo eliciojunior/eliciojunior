@@ -2,8 +2,10 @@ console.log("### Hi there 👋")
 
 My name is Elicio Junior, I am an experienced infrastructure professional(+12 years) and I am a development student learning new technologies in this challenging and exciting area ... 
 
+<details>
+[![LinkedIn](https://www.linkedin.com/public-profile/in/eliciojunior)]
 ---
-### - Languages
+### - Languages and tools...
 <p align="center">
 <!-- More icons on https://github.com/MikeCodesDotNET/ColoredBadges -->
 
@@ -17,9 +19,16 @@ My name is Elicio Junior, I am an experienced infrastructure professional(+12 ye
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-allign:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-allign:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-allign:top; margin:4px">
-</p>
 ---
 
+</p>
+
+### - What I'm looking for...
+
+- Improve my skills;
+- Learn and pratice web-apps development;
+
+</details>
 <!--
 **eliciojunior/eliciojunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
