@@ -9,8 +9,11 @@ My name is Elicio Junior, I am an experienced infrastructure professional(+12 ye
 
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/framewors/angular.svg" alt="angular" style="vertical-allign:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/framewors/react.svg" alt="react" style="vertical-allign:top; margin:4px">
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/framewors/reactnative.svg" alt="reactnative" style="vertical-allign:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="javascript" style="vertical-allign:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-allign:top; margin:4px">
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/gcp.svg" alt="gcp" style="vertical-allign:top; margin:4px">
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/aws.svg" alt="aws" style="vertical-allign:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-allign:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-allign:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-allign:top; margin:4px">
