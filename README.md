@@ -1,4 +1,4 @@
-Elicio Junior :man_technologist:
+<h2>Elicio Junior</h2> :man_technologist:
 
 ---
 
