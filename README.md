@@ -10,7 +10,7 @@ My name is Elicio Junior, I am an experienced infrastructure professional(+12 ye
 
 ### - Languages and tools...
 <p align="center">
- More icons on https://github.com/MikeCodesDotNET/ColoredBadges 
+<!-- More icons on https://github.com/MikeCodesDotNET/ColoredBadges -->
 
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/framewors/angular.svg" alt="angular" style="vertical-allign:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/framewors/react.svg" alt="react" style="vertical-allign:top; margin:4px">
