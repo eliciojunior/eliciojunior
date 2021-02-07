@@ -22,9 +22,10 @@ My name is Elicio Junior, I am an experienced infrastructure professional(+12 ye
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-allign:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-allign:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-allign:top; margin:4px">
----
 
 </p>
+
+---
 
 ### - What I'm looking for...
 
