@@ -1,7 +1,13 @@
-console.log("### Hi there 👋")
+### Hi there 👋
 
 My name is Elicio Junior, I am an experienced infrastructure professional(+12 years) and I am a development student learning new technologies in this challenging and exciting area ... 
-<!--
+
+[![Twitter Badge](https://img.shields.io/badge/-@eliciojunior-9cf?style=flat-square&labelColor=9cf&logo=twitter&logoColor=white&link=https://twitter.com/eliciojunior)](https://twitter.com/eliciojunior) 
+[![Linkedin Badge](https://img.shields.io/badge/-Elicio%20Junior-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/in/eliciojunior/)](https://www.linkedin.com/public-profile/in/eliciojunior/) 
+[![Gmail Badge](https://img.shields.io/badge/-elicio.junior@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elicio.junior@gmail.com)](mailto:elicio.junior@gmail.com)
+
+---
+
 ### - Languages and tools...
 <p align="center">
  More icons on https://github.com/MikeCodesDotNET/ColoredBadges 
@@ -19,7 +25,7 @@ My name is Elicio Junior, I am an experienced infrastructure professional(+12 ye
 ---
 
 </p>
--->
+
 ### - What I'm looking for...
 
 - Improve my skills;
