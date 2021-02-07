@@ -1,3 +1,7 @@
+Elicio Junior :man_technologist:
+
+---
+
 ### Hi there 👋
 
 My name is Elicio Junior, I am an experienced infrastructure professional(+12 years) and I am a development student learning new technologies in this challenging and exciting area ... 
