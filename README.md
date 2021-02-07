@@ -22,7 +22,7 @@ My name is Elicio Junior, I am an experienced infrastructure professional(+12 ye
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/services/gcp.png" alt="gcp" style="vertical-allign:top; margin:4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/services/aws.png" alt="aws" style="vertical-allign:top; margin:4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/bash.png" alt="bash" style="vertical-allign:top; margin:4px">
-<img src="<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/png/dev/tools/visualstudio_code.png" alt="vscode" style="vertical-allign:top; margin:4px">" alt="vscode" style="vertical-allign:top; margin:4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/visualstudio_code.png" alt="vscode" style="vertical-allign:top; margin:4px">
 
 </p>
 
