@@ -14,16 +14,15 @@ My name is Elicio Junior, I am an experienced infrastructure professional(+12 ye
 <p align="center">
 <!-- More icons on https://github.com/MikeCodesDotNET/ColoredBadges -->
 
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/framewors/angular.svg" alt="angular" style="vertical-allign:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/framewors/react.svg" alt="react" style="vertical-allign:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/framewors/reactnative.svg" alt="reactnative" style="vertical-allign:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="javascript" style="vertical-allign:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-allign:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/gcp.svg" alt="gcp" style="vertical-allign:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/aws.svg" alt="aws" style="vertical-allign:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-allign:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-allign:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-allign:top; margin:4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/framewors/nodejs.png" alt="nodejs" style="vertical-allign:top; margin:4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/framewors/angular.png" alt="angular" style="vertical-allign:top; margin:4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/framewors/react.png" alt="react" style="vertical-allign:top; margin:4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js.png" alt="javascript" style="vertical-allign:top; margin:4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/services/npm.png" alt="npm" style="vertical-allign:top; margin:4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/services/gcp.png" alt="gcp" style="vertical-allign:top; margin:4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/services/aws.png" alt="aws" style="vertical-allign:top; margin:4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/bash.png" alt="bash" style="vertical-allign:top; margin:4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/visualstudio_code.png" alt="vscode" style="vertical-allign:top; margin:4px">
 
 </p>
 
